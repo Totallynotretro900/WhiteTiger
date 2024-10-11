@@ -1,2 +1,0 @@
-# WhiteTiger
-A powerful style
